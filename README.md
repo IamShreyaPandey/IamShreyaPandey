@@ -50,7 +50,7 @@ As I continue my doctoral journey, I am excited to further develop skills in adv
   *Published in Reptiles and Amphibians, 2024*
    [Read it here](https://www.researchgate.net/publication/380153694_Mortality_of_a_Common_House_Gecko_Hemidactylus_frenatus_Dumeril_and_Bibron_1836_Due_to_Multiple_Asian_Honeybee_Apis_cerana_Stings_in_Balasore_Odisha_India)
 
-  - **"Range Expansion and a New District Record for the Laudankia Vinesnake (Ahaetulla laudankia) at Palghar, Maharashtra, India"**  
+- **"Range Expansion and a New District Record for the Laudankia Vinesnake (Ahaetulla laudankia) at Palghar, Maharashtra, India"**  
   *Published in Reptiles and Amphibians, 2023*
    [Read it here](https://www.researchgate.net/publication/376713973_RA-30_18078_Range_Expansion_and_a_New_District_Record_for_the_Laudankia_Vinesnake_Ahaetulla_laudankia_at_Palghar_Maharashtra_India)
 
@@ -62,7 +62,7 @@ As I continue my doctoral journey, I am excited to further develop skills in adv
   *Published in Reptiles and Amphibians, 2022*
    [Read it here](https://www.researchgate.net/publication/359242453_A_leucistic_Checkered_Keelback_Fowlea_piscator_entangled_in_plastic_netting_in_Valsad_Gujarat_India)
 
-  - **"Assessing Human Dimension in Conservation of Smooth-Coated Otters (Lutrogale perspicillata) in Nuanai River"**  
+- **"Assessing Human Dimension in Conservation of Smooth-Coated Otters (Lutrogale perspicillata) in Nuanai River"**  
   *Published in IUCN Otter Spec. Group Bulletin, 2022*
    [Read it here](https://www.researchgate.net/publication/367282788_Assessing_Human_Dimension_in_Conservation_of_Smooth-Coated_Otters_Lutrogale_perspicillata_in_Nuanai_River)
 
@@ -70,7 +70,7 @@ As I continue my doctoral journey, I am excited to further develop skills in adv
   *Published in IUCN Otter Spec. Group Bulletin, 2022*
    [Read it here](https://www.researchgate.net/publication/363711523_First_Community-Based_Conservation_for_Smooth-Coated_Otters_in_Puri)
 
-  - **"A Common Bronzeback Treesnake, Dendrelaphis tristis (Daudin 1803), laying eggs in a fallen Baya Weaver’s, Ploceus philippinus (Linnaeus 1766), nest in Odisha, India"**
+- **"A Common Bronzeback Treesnake, Dendrelaphis tristis (Daudin 1803), laying eggs in a fallen Baya Weaver’s, Ploceus philippinus (Linnaeus 1766), nest in Odisha, India"**
   *Published in Reptiles and Amphibians, 2022*
 [Read it here](https://www.researchgate.net/publication/356584138_A_Common_Bronzeback_Treesnake_Dendrelaphis_tristis_Daudin_1803_laying_eggs_in_a_fallen_Baya_Weaver's_Ploceus_philippinus_Linnaeus_1766_nest_in_Odisha_India)
 

@@ -12,7 +12,6 @@ Welcome to my blog — a space where I share my field experiences, research pers
 
 ## 🔬 Research & Monitoring
 
-<img src="https://images.unsplash.com/photo-1535909339361-63c5c2f9f6f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1050&q=80" alt="Remote sensing and biodiversity" width="100%" />
 
 - 🔗 [**Unlocking Biodiversity with eDNA Metabarcoding**](https://www.oulu.fi/en/blogs/science-arctic-attitude/unlocking-biodiversity-e-dna-metabarcoding)  
   *A new frontier in biodiversity monitoring using non-invasive environmental DNA.*
@@ -24,7 +23,6 @@ Welcome to my blog — a space where I share my field experiences, research pers
 
 ## 🐾 Habitat Conservation & Threats
 
-<img src="https://images.unsplash.com/photo-1555596893-1a42be94a4dc?ixlib=rb-4.0.3&auto=format&fit=crop&w=1050&q=80" alt="Mangrove forest biodiversity" width="100%" />
 
 - 🔗 [**Mangrove Forests – A Complex Ecosystem Supporting Unique Biodiversity**](https://thinkwildlifefoundation.com/mangrove-forests-a-complex-ecosystem-supporting-unique-biodiversitynique-biodiversity/)  
   *The intricate balance of coastal forest systems.*
@@ -42,7 +40,6 @@ Welcome to my blog — a space where I share my field experiences, research pers
 
 ## 🧭 Human-Wildlife Coexistence
 
-<img src="https://images.unsplash.com/photo-1608889177441-e839f3915bc7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1050&q=80" alt="Human-wildlife coexistence" width="100%" />
 
 - 🔗 [**Is Human-Wildlife Coexistence Ever Possible?**](https://thinkwildlifefoundation.com/is-human-wildlife-coexistence-ever-possible/)  
   *Exploring the edges of shared landscapes.*
@@ -57,7 +54,6 @@ Welcome to my blog — a space where I share my field experiences, research pers
 
 ## 🌿 Indigenous Knowledge & Livelihoods
 
-<img src="https://images.unsplash.com/photo-1544531587-d63f0fe2d52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1050&q=80" alt="Indigenous communities in conservation" width="100%" />
 
 - 🔗 [**Why Is Supporting Livelihoods So Important?**](#)  
   *Empowering local people to protect shared resources.*
@@ -69,7 +65,6 @@ Welcome to my blog — a space where I share my field experiences, research pers
 
 ## 🐆 Species-Specific Focus
 
-<img src="https://images.unsplash.com/photo-1615901058914-1cf104b89c16?ixlib=rb-4.0.3&auto=format&fit=crop&w=1050&q=80" alt="Wild species rehabilitation" width="100%" />
 
 - 🔗 [**Spiders – Little Creatures of Large Significance for Conservation**](https://thinkwildlifefoundation.com/spiders-little-creatures-of-large-significance-for-conservation/)  
   *Tiny beings with big ecological roles.*
@@ -90,11 +85,10 @@ Welcome to my blog — a space where I share my field experiences, research pers
 
 ## 🌍 Planetary Pressures
 
-<img src="https://images.unsplash.com/photo-1522336572468-97b06e8ef143?ixlib=rb-4.0.3&auto=format&fit=crop&w=1050&q=80" alt="Ecological overshoot" width="100%" />
 
 - 🔗 [**What Is Ecological Overshoot and Its Causes?**](https://thinkwildlifefoundation.com/what-is-ecological-overshoot-and-its-causes/)  
   *When human demands exceed Earth's limits.*
 
 ---
 
-📬 *Want updates on future posts or collaborations? Connect with me on [ResearchGate](https://www.researchgate.net/) or [GitHub](https://github.com/shreyapandey).*
+📬 *Want updates on future posts or collaborations? Connect with me on [ResearchGate](https://www.researchgate.net/profile/Shreya-Pandey-17)

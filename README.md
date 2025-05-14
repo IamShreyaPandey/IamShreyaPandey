@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 ## 👋 About Me
 
 I am a conservation-driven researcher hailing from an Industrial town Jamshedpur, India with a deep-rooted passion and motivation for **wildlife conservation** and **habitat ecology**. My academic and field experiences have taken me across diverse and ecologically rich landscapes—ranging from mangroves and estuaries to coastal ecosystems—where I have studied both habitats and species that are often at the intersection of ecological vulnerability and human interaction.
@@ -153,6 +154,10 @@ I was born and raised in Jamshedpur, India’s first planned industrial city, bu
 - **"Linking Biodiversity To Economy- A much needed step towards Conservation"**
   *Published in [Prithivya Newsletter, WCB Research Foundation], 2022*
   [Read it here](https://www.researchgate.net/publication/376713671_Linking_Biodiversity_To_Economy-_A_much_needed_step_towards_Conservation)
+
+
+Explore my collection of blog posts where I share insights, research findings, and thought-provoking discussions on wildlife conservation and habitat ecology. You can read them here: [Blogs](Blog.md).
+
 
 **Contact me @ shreyapandey.2244@gmail.com**
   

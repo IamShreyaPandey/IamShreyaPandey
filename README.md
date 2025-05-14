@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 👋 About Me
 
-I am a conservation-driven researcher hailing from India with a deep-rooted passion and motivation for **wildlife conservation** and **habitat ecology**. My academic and field experiences have taken me across diverse and ecologically rich landscapes—ranging from mangroves and estuaries to coastal ecosystems—where I have studied both habitats and species that are often at the intersection of ecological vulnerability and human interaction.
+I am a conservation-driven researcher hailing from an Industrial town Jamshedpur, India with a deep-rooted passion and motivation for **wildlife conservation** and **habitat ecology**. My academic and field experiences have taken me across diverse and ecologically rich landscapes—ranging from mangroves and estuaries to coastal ecosystems—where I have studied both habitats and species that are often at the intersection of ecological vulnerability and human interaction.
 
 My journey into wildlife research began with a strong foundation in habitat ecology during my **M.Sc. in Wildlife Science** in India. My thesis focused on investigating the **spatial distribution patterns of Smooth-Coated Otters and Fishing Cats** in the mangrove and estuarine systems of **coastal Odisha**. Using **GIS** and **remote sensing tools**, I analyzed how anthropogenic disturbances shape the spatial ecology and behavior of these species. This work not only deepened my interest in landscape-level conservation but also highlighted the need for integrative approaches that combine ecological science with human dimensions.
 
@@ -10,6 +10,9 @@ Beyond field-based research, I have engaged with **local communities and State F
 Currently, my academic focus lies at the intersection of **spatial ecology**, **wildlife conservation**, and **community-based conservation models**. I am particularly motivated to explore research that integrates **ecological data with stakeholder perspectives**, ensuring that conservation outcomes are sustainable, inclusive, and grounded in local realities.
 
 As I continue my doctoral journey, I am excited to further develop skills in advanced analytical tools such as **DNA metabarcoding**, remote sensing, and ecological modeling. My long-term goal is to contribute to interdisciplinary conservation science that supports **both biodiversity and community resilience** in a rapidly changing world.
+
+## 🏙️ **Roots in Jamshedpur**
+I was born and raised in Jamshedpur, India’s first planned industrial city, built by the visionary industrialist. Growing up in a town known for its steel industry, green spaces, and meticulous urban planning, I’ve witnessed firsthand how industrial development and environmental stewardship can coexist.This unique backdrop shaped my understanding of the delicate balance between progress and preservation, a perspective that continues to inform my approach to conservation research and sustainable development today.
 
 
 ## 🔍 **Research Interests**
@@ -95,22 +98,6 @@ As I continue my doctoral journey, I am excited to further develop skills in adv
   *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
   [Read it here](https://www.researchgate.net/publication/388674234_A_lone_Wolf_Canis_lupus_Linnaeus1758_Coalition_with_Feral_Dogs_in_the_Kaj_Village_Kodinar_Gujarat_India)
 
-- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
-  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
-  [Read it here]
-
-- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
-  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
-  [Read it here]
-
-- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
-  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
-  [Read it here]
-
-- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
-  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
-  [Read it here]
-
 - **"Bycatch of sea snakes from Surwada Beach, Gujarat, India**
   *Published in [Newsletter of the South Asian Reptile Network], 2024*  
   [Read it here](https://www.researchgate.net/publication/383312760_Bycatch_of_sea_snakes_from_Surwada_Beach_Gujarat_India)
@@ -119,21 +106,9 @@ As I continue my doctoral journey, I am excited to further develop skills in adv
   *Published in [PSITTACENE,Magazine of the WORLD PARROT TRUST], 2024*  
   [Read it here](https://www.researchgate.net/publication/385947103_Assessing_the_Impact_of_Net_Farming_and_Illegal_Trade_on_the_Well-being_of_Parakeets_in_Odisha_India)
 
-- **"Bycatch of sea snakes from Surwada Beach, Gujarat, India**
-  *Published in [Newsletter of the South Asian Reptile Network], 2024*  
-  [Read it here]
-
 - **"Saw-scaled Viper with ocular damage in Valsad,Gujarat**
   *Published in [Newsletter of the South Asian Reptile Network], 2024*  
   [Read it here](https://www.researchgate.net/publication/380743098_Saw-scaled_Viper_with_ocular_damage_in_ValsadGujarat)
-
-- **"Bycatch of sea snakes from Surwada Beach, Gujarat, India**
-  *Published in [Newsletter of the South Asian Reptile Network], 2024*  
-  [Read it here](https://www.researchgate.net/publication/383312760_Bycatch_of_sea_snakes_from_Surwada_Beach_Gujarat_India)
-
-- **"Bycatch of sea snakes from Surwada Beach, Gujarat, India**
-  *Published in [Newsletter of the South Asian Reptile Network], 2024*  
-  [Read it here]
 
 - **"Observation of conflict between Common Wolf Snake and Common House Gecko from Talcher, Odisha**
   *Published in [Newsletter of the South Asian Reptile Network], 2024*  
@@ -187,6 +162,7 @@ As I continue my doctoral journey, I am excited to further develop skills in adv
   *Published in [Prithivya Newsletter, WCB Research Foundation], 2022*
   [Read it here](https://www.researchgate.net/publication/376713671_Linking_Biodiversity_To_Economy-_A_much_needed_step_towards_Conservation)
 
+**Contact me: shreyapandey.2244@gmail.com**
   
 
 

@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 👋 About Me
 
-I am a conservation-driven researcher with a deep-rooted passion for **wildlife conservation** and **habitat ecology**. My academic and field experiences have taken me across diverse and ecologically rich landscapes—ranging from mangroves and estuaries to coastal ecosystems—where I have studied both habitats and species that are often at the intersection of ecological vulnerability and human interaction.
+I am a conservation-driven researcher hailing from India with a deep-rooted passion and motivation for **wildlife conservation** and **habitat ecology**. My academic and field experiences have taken me across diverse and ecologically rich landscapes—ranging from mangroves and estuaries to coastal ecosystems—where I have studied both habitats and species that are often at the intersection of ecological vulnerability and human interaction.
 
 My journey into wildlife research began with a strong foundation in habitat ecology during my **M.Sc. in Wildlife Science** in India. My thesis focused on investigating the **spatial distribution patterns of Smooth-Coated Otters and Fishing Cats** in the mangrove and estuarine systems of **coastal Odisha**. Using **GIS** and **remote sensing tools**, I analyzed how anthropogenic disturbances shape the spatial ecology and behavior of these species. This work not only deepened my interest in landscape-level conservation but also highlighted the need for integrative approaches that combine ecological science with human dimensions.
 
@@ -74,5 +74,122 @@ As I continue my doctoral journey, I am excited to further develop skills in adv
   *Published in Reptiles and Amphibians, 2022*
 [Read it here](https://www.researchgate.net/publication/356584138_A_Common_Bronzeback_Treesnake_Dendrelaphis_tristis_Daudin_1803_laying_eggs_in_a_fallen_Baya_Weaver's_Ploceus_philippinus_Linnaeus_1766_nest_in_Odisha_India)
 
+
+---
+
+## 📚 **Other Publications**
+
+- **"NEWSLETTER OF THE IUCN SSC ASIAN SONGBIRD TRADE SPECIALIST GROUP-Preserving Odisha’s avian wealth"**  
+  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
+  [Read it here](https://www.researchgate.net/publication/391155999_NEWSLETTER_OF_THE_IUCN_SSC_ASIAN_SONGBIRD_TRADE_SPECIALIST_GROUP-Preserving_Odisha's_avian_wealth#fullTextFileContent)
+
+- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
+  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
+  [Read it here]
+
+  - **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
+  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
+  [Read it here]
+
+- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
+  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
+  [Read it here](https://www.researchgate.net/publication/388674234_A_lone_Wolf_Canis_lupus_Linnaeus1758_Coalition_with_Feral_Dogs_in_the_Kaj_Village_Kodinar_Gujarat_India)
+
+- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
+  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
+  [Read it here]
+
+- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
+  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
+  [Read it here]
+
+- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
+  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
+  [Read it here]
+
+- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
+  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
+  [Read it here]
+
+- **"Bycatch of sea snakes from Surwada Beach, Gujarat, India**
+  *Published in [Newsletter of the South Asian Reptile Network], 2024*  
+  [Read it here](https://www.researchgate.net/publication/383312760_Bycatch_of_sea_snakes_from_Surwada_Beach_Gujarat_India)
+
+  - **"Assessing the Impact of Net Farming and Illegal Trade on the Well-being of Parakeets in Odisha, India**
+  *Published in [PSITTACENE,Magazine of the WORLD PARROT TRUST], 2024*  
+  [Read it here](https://www.researchgate.net/publication/385947103_Assessing_the_Impact_of_Net_Farming_and_Illegal_Trade_on_the_Well-being_of_Parakeets_in_Odisha_India)
+
+- **"Bycatch of sea snakes from Surwada Beach, Gujarat, India**
+  *Published in [Newsletter of the South Asian Reptile Network], 2024*  
+  [Read it here]
+
+  - **"Saw-scaled Viper with ocular damage in Valsad,Gujarat**
+  *Published in [Newsletter of the South Asian Reptile Network], 2024*  
+  [Read it here](https://www.researchgate.net/publication/380743098_Saw-scaled_Viper_with_ocular_damage_in_ValsadGujarat)
+
+- **"Bycatch of sea snakes from Surwada Beach, Gujarat, India**
+  *Published in [Newsletter of the South Asian Reptile Network], 2024*  
+  [Read it here](https://www.researchgate.net/publication/383312760_Bycatch_of_sea_snakes_from_Surwada_Beach_Gujarat_India)
+
+  - **"Bycatch of sea snakes from Surwada Beach, Gujarat, India**
+  *Published in [Newsletter of the South Asian Reptile Network], 2024*  
+  [Read it here]
+
+- **"Observation of conflict between Common Wolf Snake and Common House Gecko from Talcher, Odisha**
+  *Published in [Newsletter of the South Asian Reptile Network], 2024*  
+  [Read it here](https://www.researchgate.net/publication/378518123_Observation_of_conflict_between_Common_Wolf_Snake_and_Common_House_Gecko_from_Talcher_Odisha)
+
+  - **"Intraspecific competition among predators: two Checkered Keelback snakes grabbing a single Daudin’s Bullfrog**
+  *Published in [Newsletter of the South Asian Reptile Network], 2023*  
+  [Read it here](https://www.researchgate.net/publication/376714042_Intraspecific_competition_among_predators_two_Checkered_Keelback_snakes_grabbing_a_single_Daudin's_Bullfrog)
+
+ - **"The Jumping Ant Spider Myrmarachne Preying upon a Mayfly in Kundi Village, Gujarat, India**
+  *Published in [Entomology, Ornithology &Herpetology: Current Research], 2023*  
+  [Read it here](https://www.researchgate.net/publication/369170166_The_Jumping_Ant_Spider_Myrmarachne_Preying_upon_a_Mayfly_in_Kundi_Village_Gujarat_India)
+
+ - **"Rescue and Documentation of an Albino juvenile Common Cobra, Naja naja (Linnaeus 1758) from Bhawanipatna, Kalahandi, Odisha**
+  *Published in [Entomology, Ornithology &Herpetology: Current Research], 2023*
+  [Read it here](https://www.researchgate.net/publication/368541218_Rescue_and_Documentation_of_an_Albino_juvenile_Common_Cobra_Naja_naja_Linnaeus_1758_from_Bhawanipatna_Kalahandi_Odisha)
+
+ - **"Rare Documentation of Beak Deformity in Jungle Crow Corvus culminatus Sykes, 1832 from Odisha, India**
+  *Published in [Entomology, Ornithology &Herpetology: Current Research], 2023* 
+  [Read it here](https://www.researchgate.net/publication/368540256_Rare_Documentation_of_Beak_Deformity_in_Jungle_Crow_Corvus_culminatus_Sykes_1832_from_Odisha_India)
+
+ - **"Net Entanglement in Indian Rock Python Python molurus (Linnaeus 1758),Checkered Keelback Fowlea piscator (Schneider 1799), Common Sandboa Eryxconicus (Schneider 1801), Ratsnake Ptyas mucosa (Linnaeus 1758), Russel’s ViperDaboia russelii (Shaw 1797) and Spectacled Cobra Naja naja from Gujarat, India**
+  *Published in [Entomology, Ornithology &Herpetology: Current Research], 2023*  
+  [Read it here](https://www.researchgate.net/publication/368540057_net-entanglement-in-indian-rock-python-python-molurus-linnaeus-1758-checkered-keelback-fowlea-piscator-schneider-1799-co)
+
+ - **"Indian Rock Python Python molurus (Linnaeus 1758) Incubating in an Abandoned House in Bhadeli, Gujarat, India**
+  *Published in [Entomology, Ornithology &Herpetology: Current Research], 2023* 
+  [Read it here](https://www.researchgate.net/publication/368539966_Indian_Rock_Python_Python_molurus_Linnaeus_1758_Incubating_in_an_Abandoned_House_in_Bhadeli_Gujarat_India)
+
+ - **"First Report of a Rare Butterfly Species African Babul Blue Azanus jesous (Guerin, 1847) from Ramanguda, Odisha, India**
+  *Published in [Entomology, Ornithology &Herpetology: Current Research], 2023*  
+  [Read it here](https://www.researchgate.net/publication/376714079_First_Report_of_a_Rare_Butterfly_Species_African_Babul_Blue_Azanus_jesous_Guerin_1847_from_Ramanguda_Odisha_India)
+
+ - **"Rare Instance of a Jungle Crow Corvus culminatus Sykes, 1832 Hunting on a LiveThree Striped Palm Squirrel Funambulus palmarum Thakur Bagan, West Bengal,India**
+  *Published in [Entomology, Ornithology &Herpetology: Current Research], 2023*
+  [Read it here](https://www.researchgate.net/publication/376713663_Rare_Instance_of_a_Jungle_Crow_Corvus_culminatus_Sykes_1832_Hunting_on_a_Live_Three_Striped_Palm_Squirrel_Funambulus_palmarum)
+
+- **"Threat to Sea Snakes from Bycatch through Imperilled Fishing Nets Utilization, Report on Rescue of Sea Snakes from by Catch at Kundi, Gujarat"**
+  *Published in [Entomology, Ornithology &Herpetology: Current Research], 2023*
+  [Read it here](https://www.researchgate.net/publication/367298166_Threat_to_Sea_Snakes_from_Bycatch_through_Imperilled_Fishing_Nets_Utilization_Report_on_Rescue_of_Sea_Snakes_from_by_Catch_at_Kundi_Gujarat)
+
+  - **"Thanatosis Behavior: A Unique Strategy for Survival by a Spectacled Cobra, Naja naja (Linnaeus 1758) (Squamata: Elapidae) in Bhubaneswar, Odisha, India"**
+  *Published in [Entomology, Ornithology &Herpetology: Current Research], 2023*
+  [Read it here](https://www.researchgate.net/publication/367282708_Thanatosis_Behavior_A_Unique_Strategy_for_Survival_by_a_Spectacled_Cobra_Naja_naja_Linnaeus_1758_Squamata_Elapidae_in_Bhubaneswar_Odisha)
+
+- **"Aberrant Head Coloration in a Barred Wolf Snake, Lycodon striatus (Shaw1802), from Odisha, India"**
+  *Published in [Entomology, Ornithology &Herpetology: Current Research], 2023*
+  [Read it here](https://www.researchgate.net/publication/368077331_aberrant-head-coloration-in-a-barred-wolf-snake-lycodon-striatus-shaw-1802-from-odisha-india)
+
+  - **"Linking Biodiversity To Economy- A much needed step towards Conservation"**
+  *Published in [Prithivya Newsletter, WCB Research Foundation], 2022*
+  [Read it here](https://www.researchgate.net/publication/376713671_Linking_Biodiversity_To_Economy-_A_much_needed_step_towards_Conservation)
+
+  
+
+
+  
 
 

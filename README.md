@@ -5,13 +5,11 @@ I am a conservation-driven researcher hailing from an Industrial town Jamshedpur
 
 My journey into wildlife research began with a strong foundation in habitat ecology during my **M.Sc. in Wildlife Science** in India. My thesis focused on investigating the **spatial distribution patterns of Smooth-Coated Otters and Fishing Cats** in the mangrove and estuarine systems of **coastal Odisha**. Using **GIS** and **remote sensing tools**, I analyzed how anthropogenic disturbances shape the spatial ecology and behavior of these species. This work not only deepened my interest in landscape-level conservation but also highlighted the need for integrative approaches that combine ecological science with human dimensions.
 
-Beyond field-based research, I have engaged with **local communities and State Forest Departments**, leading **awareness campaigns** and **capacity-building workshops** that aim to bridge the gap between scientific research and grassroots conservation. These experiences have reinforced my belief that effective conservation must be both **ecologically informed** and **socially grounded**.
+Beyond field-based research, I have engaged with **local communities and State Forest Departments**, leading **awareness campaigns** and **capacity-building workshops** that aim to bridge the gap between scientific research and grassroots conservation. These experiences have reinforced my belief that effective conservation must be both **ecologically informed** and **socially grounded**.Currently, my academic focus lies at the intersection of **spatial ecology**, **wildlife conservation**, and **community-based conservation models**. I am particularly motivated to explore research that integrates **ecological data with stakeholder perspectives**, ensuring that conservation outcomes are sustainable, inclusive, and grounded in local realities.
 
-Currently, my academic focus lies at the intersection of **spatial ecology**, **wildlife conservation**, and **community-based conservation models**. I am particularly motivated to explore research that integrates **ecological data with stakeholder perspectives**, ensuring that conservation outcomes are sustainable, inclusive, and grounded in local realities.
+As I continue my doctoral journey, I am excited to further develop skills in advanced analytical tools such as **DNA metabarcoding**, remote sensing, and ecological modeling.Majorly focusing on eDNA based biodiversity monitoring. My long-term goal is to contribute to interdisciplinary conservation science that supports **both biodiversity and community resilience** in a rapidly changing world.
 
-As I continue my doctoral journey, I am excited to further develop skills in advanced analytical tools such as **DNA metabarcoding**, remote sensing, and ecological modeling. My long-term goal is to contribute to interdisciplinary conservation science that supports **both biodiversity and community resilience** in a rapidly changing world.
-
-## 🏙️ **Roots in Jamshedpur**
+## 🏙️ **Roots in Jamshedpur, India**
 I was born and raised in Jamshedpur, India’s first planned industrial city, built by the visionary industrialist. Growing up in a town known for its steel industry, green spaces, and meticulous urban planning, I’ve witnessed firsthand how industrial development and environmental stewardship can coexist.This unique backdrop shaped my understanding of the delicate balance between progress and preservation, a perspective that continues to inform my approach to conservation research and sustainable development today.
 
 
@@ -30,6 +28,8 @@ I was born and raised in Jamshedpur, India’s first planned industrial city, bu
 - **Conservation Planning**  
 - **Landscape Ecology**
 - **Community-Sensitization**
+
+  ---
   
   ## 📄 **Peer-Reviewed Publications**
 
@@ -85,14 +85,6 @@ I was born and raised in Jamshedpur, India’s first planned industrial city, bu
 - **"NEWSLETTER OF THE IUCN SSC ASIAN SONGBIRD TRADE SPECIALIST GROUP-Preserving Odisha’s avian wealth"**  
   *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
   [Read it here](https://www.researchgate.net/publication/391155999_NEWSLETTER_OF_THE_IUCN_SSC_ASIAN_SONGBIRD_TRADE_SPECIALIST_GROUP-Preserving_Odisha's_avian_wealth#fullTextFileContent)
-
-- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
-  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
-  [Read it here]
-
- - **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
-  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
-  [Read it here]
 
 - **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
   *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
@@ -162,7 +154,7 @@ I was born and raised in Jamshedpur, India’s first planned industrial city, bu
   *Published in [Prithivya Newsletter, WCB Research Foundation], 2022*
   [Read it here](https://www.researchgate.net/publication/376713671_Linking_Biodiversity_To_Economy-_A_much_needed_step_towards_Conservation)
 
-**Contact me: shreyapandey.2244@gmail.com**
+**Contact me @ shreyapandey.2244@gmail.com**
   
 
 

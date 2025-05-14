@@ -19,6 +19,7 @@ Welcome to my blog — a space where I share my field experiences, research pers
 - 🔗 [**Application of Remote Sensing in Biodiversity Monitoring**](https://thinkwildlifefoundation.com/application-of-remote-sensing-in-biodiversity-monitoring/)  
   *Satellite and drone-based insights into habitat and species patterns.*
 
+
 ---
 
 ## 🐾 Habitat Conservation & Threats
@@ -55,7 +56,7 @@ Welcome to my blog — a space where I share my field experiences, research pers
 ## 🌿 Indigenous Knowledge & Livelihoods
 
 
-- 🔗 [**Why Is Supporting Livelihoods So Important?**](#)  
+- 🔗 [**Why Is Supporting Livelihoods So Important?**](https://thinkwildlifefoundation.com/why-is-supporting-livelihoods-so-important-for-wildlife-conservation/) 
   *Empowering local people to protect shared resources.*
 
 - 🔗 [**What Role Does Traditional Knowledge Play in Conservation?**](https://thinkwildlifefoundation.com/threats-and-conservation-of-the-arctic-marine-ecosystem/)  
@@ -75,10 +76,10 @@ Welcome to my blog — a space where I share my field experiences, research pers
 - 🔗 [**The Potential and Challenges of Wildlife Rehabilitation**](https://thinkwildlifefoundation.com/the-potential-and-challenges-of-wildlife-rehabilitation/)  
   *Healing and releasing wildlife back to nature.*
 
-- 🔗 [**What Are the Threats Faced by Striped Hyenas in India?**](#)  
+- 🔗 [**What Are the Threats Faced by Striped Hyenas in India?**](https://thinkwildlifefoundation.com/a-case-study-of-threats-to-hyena-from-astaranga-puri-odisha-india/) 
   *An often-misunderstood scavenger's survival story.*
 
-- 🔗 [**What Is the Role of Population Ecology in Wildlife Conservation?**](#)  
+- 🔗 [**What Is the Role of Population Ecology in Wildlife Conservation?**](https://thinkwildlifefoundation.com/what-is-the-role-of-population-ecology-in-wildlife-conservation/#:~:text=Population%20Ecology%20helps%20with%20species,strategy%20to%20maintain%20viable%20populations.)  
   *Tracking species dynamics for better protection.*
 
 ---

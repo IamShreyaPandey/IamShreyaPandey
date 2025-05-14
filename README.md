@@ -42,7 +42,7 @@ As I continue my doctoral journey, I am excited to further develop skills in adv
   *Published in Reptiles and Amphibians, 2024*  
   [Read it here](https://www.researchgate.net/publication/383423647_Notes_on_Prey_of_the_Common_Sandboa_Eryx_conicus_Schneider_1801_in_Valsad_Gujarat_India)
 
-  - **"Host-specific Ectoparasitic Isopod(Nerocila loveni) found on a Little Filesnake(Acrochordus granulatus) on Surwada Beach, Gujarat, India"**  
+- **"Host-specific Ectoparasitic Isopod(Nerocila loveni) found on a Little Filesnake(Acrochordus granulatus) on Surwada Beach, Gujarat, India"**  
   *Published in Reptiles and Amphibians, 2024*
    [Read it here](https://www.researchgate.net/publication/380153697_Host-specific_Ectoparasitic_Isopod_Nerocila_loveni_found_on_a_Little_Filesnake_Acrochordus_granulatus_on_Surwada_Beach_Gujarat_India)
 

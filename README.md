@@ -183,7 +183,7 @@ As I continue my doctoral journey, I am excited to further develop skills in adv
   *Published in [Entomology, Ornithology &Herpetology: Current Research], 2023*
   [Read it here](https://www.researchgate.net/publication/368077331_aberrant-head-coloration-in-a-barred-wolf-snake-lycodon-striatus-shaw-1802-from-odisha-india)
 
-  - **"Linking Biodiversity To Economy- A much needed step towards Conservation"**
+- **"Linking Biodiversity To Economy- A much needed step towards Conservation"**
   *Published in [Prithivya Newsletter, WCB Research Foundation], 2022*
   [Read it here](https://www.researchgate.net/publication/376713671_Linking_Biodiversity_To_Economy-_A_much_needed_step_towards_Conservation)
 

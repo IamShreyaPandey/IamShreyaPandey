@@ -45,7 +45,7 @@ I was born and raised in Jamshedpur, India’s first planned industrial city, bu
   *Published in Reptiles and Amphibians, 2024*  
   [Read it here](https://www.researchgate.net/publication/383423647_Notes_on_Prey_of_the_Common_Sandboa_Eryx_conicus_Schneider_1801_in_Valsad_Gujarat_India)
 
-  - **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
+- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
   *Published in [Jordan Journal of Natural History], 2024*  
   [Read it here](https://www.researchgate.net/publication/388674234_A_lone_Wolf_Canis_lupus_Linnaeus1758_Coalition_with_Feral_Dogs_in_the_Kaj_Village_Kodinar_Gujarat_India)
 

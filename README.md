@@ -45,6 +45,10 @@ I was born and raised in Jamshedpur, India’s first planned industrial city, bu
   *Published in Reptiles and Amphibians, 2024*  
   [Read it here](https://www.researchgate.net/publication/383423647_Notes_on_Prey_of_the_Common_Sandboa_Eryx_conicus_Schneider_1801_in_Valsad_Gujarat_India)
 
+  - **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
+  *Published in [Jordan Journal of Natural History], 2024*  
+  [Read it here](https://www.researchgate.net/publication/388674234_A_lone_Wolf_Canis_lupus_Linnaeus1758_Coalition_with_Feral_Dogs_in_the_Kaj_Village_Kodinar_Gujarat_India)
+
 - **"Host-specific Ectoparasitic Isopod(Nerocila loveni) found on a Little Filesnake(Acrochordus granulatus) on Surwada Beach, Gujarat, India"**  
   *Published in Reptiles and Amphibians, 2024*
    [Read it here](https://www.researchgate.net/publication/380153697_Host-specific_Ectoparasitic_Isopod_Nerocila_loveni_found_on_a_Little_Filesnake_Acrochordus_granulatus_on_Surwada_Beach_Gujarat_India)
@@ -85,10 +89,6 @@ I was born and raised in Jamshedpur, India’s first planned industrial city, bu
 - **"NEWSLETTER OF THE IUCN SSC ASIAN SONGBIRD TRADE SPECIALIST GROUP-Preserving Odisha’s avian wealth"**  
   *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
   [Read it here](https://www.researchgate.net/publication/391155999_NEWSLETTER_OF_THE_IUCN_SSC_ASIAN_SONGBIRD_TRADE_SPECIALIST_GROUP-Preserving_Odisha's_avian_wealth#fullTextFileContent)
-
-- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
-  *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  
-  [Read it here](https://www.researchgate.net/publication/388674234_A_lone_Wolf_Canis_lupus_Linnaeus1758_Coalition_with_Feral_Dogs_in_the_Kaj_Village_Kodinar_Gujarat_India)
 
 - **"Bycatch of sea snakes from Surwada Beach, Gujarat, India**
   *Published in [Newsletter of the South Asian Reptile Network], 2024*  

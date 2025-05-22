@@ -10,9 +10,6 @@ Beyond field-based research, I have engaged with **local communities and State F
 
 As I continue my doctoral journey, I am excited to further develop skills in advanced analytical tools such as **DNA metabarcoding**, remote sensing, and ecological modeling.Majorly focusing on eDNA based biodiversity monitoring. My long-term goal is to contribute to interdisciplinary conservation science that supports **both biodiversity and community resilience** in a rapidly changing world.
 
-## 🏙️ **Roots in Jamshedpur, India**
-I was born and raised in Jamshedpur, India’s first planned industrial city, built by the visionary industrialist. Growing up in a town known for its steel industry, green spaces, and meticulous urban planning, I’ve witnessed firsthand how industrial development and environmental stewardship can coexist.This unique backdrop shaped my understanding of the delicate balance between progress and preservation, a perspective that continues to inform my approach to conservation research and sustainable development today.
-
 
 ## 🔍 **Research Interests**
 
@@ -86,6 +83,10 @@ I was born and raised in Jamshedpur, India’s first planned industrial city, bu
 ---
 
 ## 📚 **Other Publications**
+
+- **"Notes on parturition of Bamboo Pit Viper in wild"**  
+  *Published in [Newsletter of the South Asian Reptile Network], 2025*  
+  [Read it here](https://zoosprint.org/index.php/zp/article/view/7967/7213)
 
 - **"NEWSLETTER OF THE IUCN SSC ASIAN SONGBIRD TRADE SPECIALIST GROUP-Preserving Odisha’s avian wealth"**  
   *Published in [IUCN SSC ASTSG Dawn Chorus], 2024*  

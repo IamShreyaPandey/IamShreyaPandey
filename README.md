@@ -31,6 +31,9 @@ As I continue my doctoral journey, I am excited to further develop skills in adv
   
   ## 📄 **Peer-Reviewed Publications**
 
+- **"First photographic evidence and record of the Indian Pangolin Manis crassicaudata (Mammalia: Pholidota: Manidae) from Rajkot, Gujarat, India"**  
+  *Published in Journal of Threatened Taxa, 2025*  
+[Read it here](https://www.researchgate.net/publication/392100931_First_photographic_evidence_and_record_of_the_Indian_Pangolin_Manis_crassicaudata_Mammalia_Pholidota_Manidae_from_Rajkot_Gujarat_India#fullTextFileContent)
 - **"Combating Illegal Bird Trading: The First Project for the Conservation of Alexandrine Parakeets Psittacula eupatria (Linnaeus, 1766) in Odisha, India"**  
   *Published in Jordan Journal of Natural History, 2024*  
   [Read it here](https://www.researchgate.net/publication/388885655_Combating_Illegal_Bird_Trading_The_First_Project_for_the_Conservation_of_Alexandrine_Parakeets_Psittacula_eupatria_Linnaeus_1766_in_Odisha_India)

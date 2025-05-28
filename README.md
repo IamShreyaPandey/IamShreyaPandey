@@ -31,54 +31,54 @@ As I continue my doctoral journey, I am excited to further develop skills in adv
   
   ## 📄 **Peer-Reviewed Publications**
 
-- **"First photographic evidence and record of the Indian Pangolin Manis crassicaudata (Mammalia: Pholidota: Manidae) from Rajkot, Gujarat, India"**  
+- **"Agravat, A., Aditya, V., Pandey, S., Patel, B. G., Pathak, R., & Samal, A. (2025). First photographic evidence and record of the Indian Pangolin< Manis crassicaudata>(Mammalia: Pholidota: Manidae) from Rajkot, Gujarat, India. Journal of Threatened Taxa, 17(5), 27030-27032."**  
   *Published in Journal of Threatened Taxa, 2025*  
 [Read it here](https://www.researchgate.net/publication/392100931_First_photographic_evidence_and_record_of_the_Indian_Pangolin_Manis_crassicaudata_Mammalia_Pholidota_Manidae_from_Rajkot_Gujarat_India#fullTextFileContent)
-- **"Combating Illegal Bird Trading: The First Project for the Conservation of Alexandrine Parakeets Psittacula eupatria (Linnaeus, 1766) in Odisha, India"**  
+- **"Samal, A., Pandey, S., Priyadarshini, D., & Nayak, S. (2024). Combating Illegal Bird Trading: The First Project for the Conservation of Alexandrine Parakeets Psittacula eupatria (Linnaeus, 1766) in Odisha, India. Jordan Journal of Natural History, 11(1), 32-42."**  
   *Published in Jordan Journal of Natural History, 2024*  
   [Read it here](https://www.researchgate.net/publication/388885655_Combating_Illegal_Bird_Trading_The_First_Project_for_the_Conservation_of_Alexandrine_Parakeets_Psittacula_eupatria_Linnaeus_1766_in_Odisha_India)
 
-- **"Enforcement and Capacity Building to Combat Illegal Trade of Alexandrine Parakeets Psittacula eupatria (Linnaeus, 1766) in Odisha, India"**  
+- **"Pandey, S., Samal, A., & Kar, N. B. (2024). Enforcement and capacity building to combat illegal trade of Alexandrine Parakeets Psittacula eupatria (Linnaeus 1766) in Odisha, India. Sustainability and Biodiversity Conservation, 3(3), 1-14."**  
   *Sustainability and Biodiversity Conservation, 2024*  
   [Read it here](https://www.researchgate.net/publication/385878675_Enforcement_and_Capacity_Building_to_Combat_Illegal_Trade_of_Alexandrine_Parakeets_Psittacula_eupatria_Linnaeus_1766_in_Odisha_India)
   
-- **"Notes on Prey of the Common Sandboa, Eryx conicus (Schneider 1801), in Valsad, Gujarat, India"**  
+- **"Patel, A., Pandey, S., Samal, A., & Pandya, M. (2024). Notes on prey of the Common Sandboa, Eryx conicus (Schneider 1801), in Valsad, Gujarat, India. Reptiles & Amphibians, 31(1), e21362-e21362."**  
   *Published in Reptiles and Amphibians, 2024*  
   [Read it here](https://www.researchgate.net/publication/383423647_Notes_on_Prey_of_the_Common_Sandboa_Eryx_conicus_Schneider_1801_in_Valsad_Gujarat_India)
 
-- **"A lone Wolf Canis lupus (Linnaeus,1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India**
+- **"Parajapati, D., Samal, A., & Pandey, S. (2024). A lone Wolf Canis lupus (Linnaeus, 1758) Coalition with Feral Dogs in the Kaj Village, Kodinar, Gujarat, India. Jordan Journal of Natural History, 11(2), 87-89.**
   *Published in [Jordan Journal of Natural History], 2024*  
   [Read it here](https://www.researchgate.net/publication/388674234_A_lone_Wolf_Canis_lupus_Linnaeus1758_Coalition_with_Feral_Dogs_in_the_Kaj_Village_Kodinar_Gujarat_India)
 
-- **"Host-specific Ectoparasitic Isopod(Nerocila loveni) found on a Little Filesnake(Acrochordus granulatus) on Surwada Beach, Gujarat, India"**  
+- **"Patil, A., Samal, A., & Pandey, S. (2024). Host-specific ectoparasitic isopod (Nerocila loveni) found on a Little Filesnake (Acrochordus granulatus) on Surwada Beach, Gujarat, India. Reptiles & Amphibians, 31(1), e20143-e20143."**  
   *Published in Reptiles and Amphibians, 2024*
    [Read it here](https://www.researchgate.net/publication/380153697_Host-specific_Ectoparasitic_Isopod_Nerocila_loveni_found_on_a_Little_Filesnake_Acrochordus_granulatus_on_Surwada_Beach_Gujarat_India)
 
-- **"Mortality of a Common House Gecko, Hemidactylus frenatus (Duméril and Bibron 1836), Due to Multiple Asian Honeybee (Apis cerana) Stings in Balasore, Odisha, India"**  
+- **"Pandey, S., Samal, A., & Kar, N. B. (2024). Mortality of a Common House Gecko, Hemidactylus frenatus (Duméril and Bibron1836) due to multiple Asian Honeybee (Apis cerana) stings in Balasore, Odisha, India. Reptiles & Amphibians, 31(1), e21625-e21625."**  
   *Published in Reptiles and Amphibians, 2024*
-   [Read it here](https://www.researchgate.net/publication/380153694_Mortality_of_a_Common_House_Gecko_Hemidactylus_frenatus_Dumeril_and_Bibron_1836_Due_to_Multiple_Asian_Honeybee_Apis_cerana_Stings_in_Balasore_Odisha_India)
+[Read it here](https://www.researchgate.net/publication/380153694_Mortality_of_a_Common_House_Gecko_Hemidactylus_frenatus_Dumeril_and_Bibron_1836_Due_to_Multiple_Asian_Honeybee_Apis_cerana_Stings_in_Balasore_Odisha_India)
 
-- **"Range Expansion and a New District Record for the Laudankia Vinesnake (Ahaetulla laudankia) at Palghar, Maharashtra, India"**  
+- **"Patel, S. V., Sahu, J. S., Fullonton, S., Samal, A., & Patel, A. (2023). Range expansion and a new district record for the Laudankia Vine snake (Ahaetulla laudankia) at Palghar, Maharashtra, India. Reptiles & Amphibians, 30(1), e18078-e18078."**  
   *Published in Reptiles and Amphibians, 2023*
    [Read it here](https://www.researchgate.net/publication/376713973_RA-30_18078_Range_Expansion_and_a_New_District_Record_for_the_Laudankia_Vinesnake_Ahaetulla_laudankia_at_Palghar_Maharashtra_India)
 
-- **"An unusually patterned Common Wolfsnake, Lycodon aulicus (Linnaeus 1758), from Jamshedpur, Jharkhand, India"**  
+- **"Maharana, S., Samal, A., Fullonton, S., & Pandey, S. (2022). An unusually patterned Common Wolfsnake, Lycodon aulicus (Linnaeus 1758), from Jamshedpur, Jharkhand, India. Reptiles & Amphibians, 29(1), 241-242."**  
   *Published in Reptiles and Amphibians, 2022*
    [Read it here](https://www.researchgate.net/publication/359243586_An_unusually_patterned_Common_Wolfsnake_Lycodon_aulicus_Linnaeus_1758_from_Jamshedpur_Jharkhand_India)
 
-- **"A leucistic Checkered Keelback (Fowlea piscator) entangled in plastic netting in Valsad, Gujarat, India"**  
+- **"Patel, A., Samal, A., & Pandey, S. (2022). A leucistic Checkered Keelback (Fowlea piscator) entangled in plastic netting in Valsad, Gujarat, India. Reptiles & Amphibians, 29(1), 259-260."**  
   *Published in Reptiles and Amphibians, 2022*
    [Read it here](https://www.researchgate.net/publication/359242453_A_leucistic_Checkered_Keelback_Fowlea_piscator_entangled_in_plastic_netting_in_Valsad_Gujarat_India)
 
-- **"Assessing Human Dimension in Conservation of Smooth-Coated Otters (Lutrogale perspicillata) in Nuanai River"**  
+- **"Pandey, S., Kotak, B. H., Samal, A., Mahapatra, R. P., FULLONTON, S., & JENA, K. K. (2022). Assessing Human Dimension in Conservation of Smooth-Coated Otters (Lutrogale perspicillata) in Nuanai River, Puri, Odisha, India. IUCN Otter Specialist Group Bull, 39(4), 202-2022."**  
   *Published in IUCN Otter Spec. Group Bulletin, 2022*
    [Read it here](https://www.researchgate.net/publication/367282788_Assessing_Human_Dimension_in_Conservation_of_Smooth-Coated_Otters_Lutrogale_perspicillata_in_Nuanai_River)
 
-- **"FIRST COMMUNITY-BASED CONSERVATION FOR SMOOTH-COATED OTTERS IN PURI, ODISHA, INDIA"**  
+- **"Samal, A., Fullonton, S., Mahapatra, R., Rath, A., Pandey, S., & Jena, K. K. (2022). First community-based conservation for smooth-coated otters in Puri, Odisha, India. IUCN Otter Spec. Group Bull, 39(2), 59-72."**  
   *Published in IUCN Otter Spec. Group Bulletin, 2022*
    [Read it here](https://www.researchgate.net/publication/363711523_First_Community-Based_Conservation_for_Smooth-Coated_Otters_in_Puri)
 
-- **"A Common Bronzeback Treesnake, Dendrelaphis tristis (Daudin 1803), laying eggs in a fallen Baya Weaver’s, Ploceus philippinus (Linnaeus 1766), nest in Odisha, India"**
+- **"Maharana, S., Fullonton, S., Pandey, S., & Samal, A. (2021). A Common Bronzeback Treesnake, Dendrelaphis tristis (Daudin 1803), laying eggs in a fallen Baya Weaver’s, Ploceus philippinus (Linnaeus 1766), nest in Odisha, India. Reptiles & Amphibians, 28(3), 469-470."**
   *Published in Reptiles and Amphibians, 2022*
 [Read it here](https://www.researchgate.net/publication/356584138_A_Common_Bronzeback_Treesnake_Dendrelaphis_tristis_Daudin_1803_laying_eggs_in_a_fallen_Baya_Weaver's_Ploceus_philippinus_Linnaeus_1766_nest_in_Odisha_India)
 

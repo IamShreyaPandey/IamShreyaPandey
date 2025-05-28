@@ -12,6 +12,7 @@ Welcome to my blog — a space where I share my field experiences, research pers
 
 ## 🔬 Research & Monitoring
 
+ - 🔗 [** Urbanization and biodiversity loss in the Arctic: Why community sensitization matters**](https://www.oulu.fi/en/blogs/science-arctic-attitude/urbanization-and-biodiversity-loss-arctic-why-community-sensitization-matters)
 
 - 🔗 [**Unlocking Biodiversity with eDNA Metabarcoding**](https://www.oulu.fi/en/blogs/science-arctic-attitude/unlocking-biodiversity-e-dna-metabarcoding)  
   *A new frontier in biodiversity monitoring using non-invasive environmental DNA.*
